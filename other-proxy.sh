@@ -71,7 +71,7 @@ adb start-server
 echo "Installing SSLH..."
 apt -y install sslh
 rm -fr /usr/sbin/sslh
-wget -O /usr/sbin/sslh "https://github.com/ASterCraft45/File/blob/main/sslh"
+wget -O /usr/sbin/sslh "https://github.com/ASterCraft45/File/raw/refs/heads/main/sslh"
 chmod +x /usr/sbin/sslh
 
 # Konfigurasi sslh
