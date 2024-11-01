@@ -7,7 +7,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 # Menentukan URL download untuk Chisel versi terbaru (pastikan ini adalah versi yang diinginkan)
-url="https://github.com/ASterCraft45/File/blob/main/chisel"
+url="https://github.com/ASterCraft45/File/raw/6790d51f2052d23dccef9ec17a1b42f79344caf4/chisel"
 
 # Download file Chisel
 echo "Downloading Chisell..."
