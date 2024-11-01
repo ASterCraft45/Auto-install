@@ -4,7 +4,7 @@
 # Download File Ohp
 
 cd /usr/bin
-wget -O ohp "https://github.com/ASterCraft45/File/blob/main/ohp"
+wget -O ohp "https://github.com/ASterCraft45/File/raw/refs/heads/main/ohp"
 chmod +x /usr/bin/ohp
 
 # Installing Service
